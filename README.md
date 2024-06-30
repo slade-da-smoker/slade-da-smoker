@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @slade-da-smoker
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning on my own 
+- 👋 Hi, I’m @Adams Usman
+- 👀 I’m a web developer.
 - 💞️ I’m looking to collaborate with any one who is interested 
 reach me via email at adamusman2512@gmail.com
 
